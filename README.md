@@ -2,7 +2,7 @@
 
 - ☕️ My name is Matheus!
 - 🔭 I’m currently working on front/back-end!
-- 🍥 I’m currently learning JavaScript and others!
+- 🍥 I’m currently learning React and others!
 - 😄 Pronouns: ʜᴇ/ʜɪᴍ
 - ⚡ Fun fact: Besides Dev, I'm also a writer!
 
