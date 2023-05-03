@@ -2,7 +2,7 @@
 
 - ☕️ My name is Matheus!
 - 🔭 I’m currently working on front/back-end!
-- 🍥 I’m currently learning React and others!
+- 🍥 I’m currently learning JAVA and others!
 - 😄 Pronouns: ʜᴇ/ʜɪᴍ
 - ⚡ Fun fact: Besides Dev, I'm also a writer!
 
@@ -14,15 +14,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DvlprMatheus&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-## ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇs 📼
+## ᴍʏ sᴋɪʟʟs 📼
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Theu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Theu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Theu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Theu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="theu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+![Minhas Skills](https://skillicons.dev/icons?i=figma,html,css,js,bootstrap,react,mysql,java)
 
 ## sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ 📈
 
