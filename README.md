@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Vinícius Matheus
-> Information Technology Student
+> Development Intern at OMOTOR
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A ʟɪᴛᴛʟᴇ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ...  
 
@@ -7,7 +7,7 @@
 const vini = {
   pronouns: "he" | "his",
   code: [HTML, CSS, Javascript, TypeScript, MySQL, Java],
-  tools: [React, Node, Spring Boot, Bootstrap, Figma],
+  tools: [React, Angular, Node, Spring Boot, Figma],
   architecture: ["microservices", "design system pattern"],
 }
 ```
