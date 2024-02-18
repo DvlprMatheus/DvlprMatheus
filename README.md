@@ -7,7 +7,7 @@
 const vini = {
   pronouns: "he" | "his",
   code: [HTML, CSS, Javascript, TypeScript, MySQL, Java],
-  tools: [React, Angular, Node, Spring Boot, Figma],
+  tools: [React, Angular, Bootstrap, Spring Boot, Figma],
   architecture: ["microservices", "design system pattern"],
 }
 ```
