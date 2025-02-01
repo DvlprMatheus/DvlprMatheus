@@ -1,14 +1,18 @@
-### Hi there 👋 I'm Vinícius Matheus
+### Hi there 👋 I'm Matheus Cruz
 > Development Intern at OMOTOR
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A ʟɪᴛᴛʟᴇ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ...  
 
 ```javascript
-const vini = {
-  pronouns: "he" | "his",
-  code: [HTML, CSS, Javascript, TypeScript, MySQL, Java],
-  tools: [React, Angular, Bootstrap, Spring Boot, Figma],
-  architecture: ["microservices", "design system pattern"],
+const matt = {
+  pronouns: ["he", "his"],
+  code: ["HTML", "CSS", "JavaScript", "TypeScript", "MySQL", "Java", "Python", "Node.js"],
+  tools: ["React", "Angular", "Bootstrap", "Spring Boot", "Figma", "Git", "Docker", "Intellij"],
+  architecture: ["microservices", "design system pattern", "serverless", "RESTful APIs"],
+  experience: ["Frontend Development", "Backend Development", "Full-Stack Development"],
+  skills: ["problem-solving", "team collaboration", "agile methodologies", "UI/UX design", "database optimization"],
+  hobbies: ["open-source contributions", "coding challenges", "gaming", "tech meetups"],
+  languages: ["English", "Portuguese"]
 }
 ```
 
@@ -24,7 +28,6 @@ const vini = {
 
 <div align='center'> 
   <a href="https://instagram.com/theeux.sz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-matheus-263447265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://stackoverflow.com/users/22134743/vin%c3%adcius-matheus" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
-  <a href = "mailto:developer.matheeus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/dvlprmatheus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:developer.matheuscruz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
