@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Matheus Cruz
-> Trainee Developer at OMOTOR
+> Junior Developer at OMOTOR
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Aʙᴏᴜᴛ ᴍᴇ  
 
@@ -23,7 +23,7 @@ const matt = {
     languages: ["Java"],
     frameworks: ["Spring Boot"]
   },
-  databases: ["MySQL", "MongoDB", "Firebase"],
+  databases: ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
   devops_tools: ["Git", "Docker", "RabbitMQ", "n8n"],
   design_tools: ["Figma"],
   architecture: ["microservices", "design system pattern", "serverless", "RESTful APIs"],
