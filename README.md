@@ -39,14 +39,6 @@ const matt = {
 - Unit Testing
 - CI/CD
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Mʏ sᴛᴀᴛs
-
-<div align='center'>
-  <a href="https://github.com/DvlprMatheus">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DvlprMatheus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DvlprMatheus&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ
 
 <div align='center'> 
