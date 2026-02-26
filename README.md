@@ -35,8 +35,7 @@ const matt = {
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Cᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ
 
-- Spring Security
-- Unit Testing
+- AWS
 - CI/CD
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ
