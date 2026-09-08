@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Matheus Cruz
-> Junior Developer at OMOTOR
+> Development Analyst at OMOTOR
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Aʙᴏᴜᴛ ᴍᴇ  
 
