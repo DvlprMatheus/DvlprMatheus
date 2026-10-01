@@ -20,11 +20,12 @@ const matt = {
     frameworks: ["React", "Next.js", "Angular", "Bootstrap", "Tailwind"]
   },
   backend: {
-    languages: ["Java"],
-    frameworks: ["Spring Boot"]
+    languages: ["Java, "Python"],
+    frameworks: ["Spring Boot", "FastAPI"]
   },
   databases: ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
   devops_tools: ["Git", "Docker", "RabbitMQ", "n8n"],
+  cloud_providers: ["AWS"],
   design_tools: ["Figma"],
   architecture: ["microservices", "design system pattern", "serverless", "REST APIs"],
   skills: ["problem-solving", "team collaboration", "agile methodologies", "UI/UX design", "database optimization"],
