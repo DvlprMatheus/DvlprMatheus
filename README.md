@@ -14,13 +14,13 @@ const matt = {
       institution: "UNIP",
       year: "2025"
     }
-  ]
+  ],
   frontend: {
     languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
     frameworks: ["React", "Next.js", "Angular", "Bootstrap", "Tailwind"]
   },
   backend: {
-    languages: ["Java, "Python"],
+    languages: ["Java", "Python"],
     frameworks: ["Spring Boot", "FastAPI"]
   },
   databases: ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
