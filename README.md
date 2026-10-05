@@ -29,7 +29,7 @@ const matt = {
   design_tools: ["Figma"],
   architecture: ["microservices", "design system pattern", "serverless", "REST APIs"],
   skills: ["problem-solving", "team collaboration", "agile methodologies", "UI/UX design", "database optimization"],
-  hobbies: ["open-source contributions", "coding challenges", "gaming", "tech meetups"],
+  hobbies: ["coding challenges", "gaming", "tech meetups"],
   languages: ["English", "Portuguese"]
 }
 ```
