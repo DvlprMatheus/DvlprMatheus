@@ -23,7 +23,7 @@ const matt = {
     languages: ["Java", "Python"],
     frameworks: ["Spring Boot", "FastAPI"]
   },
-  databases: ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
+  databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis", "Firebase"],
   devops_tools: ["Git", "Docker", "RabbitMQ", "n8n"],
   cloud_providers: ["AWS"],
   design_tools: ["Figma"],
